@@ -1,0 +1,59 @@
+GPT-4.1, the Worst Mathematician Ever: three combinations where the bot breaks (gpt-4.1-nano)
+
+===== (123, 3) | model: gpt-4.1-nano =====
+Step 1: 123 * 123
+   GPT says:       15129
+   Correct answer: 15129   ✅
+   Bot: Nailed it. Obviously.
+Step 2: 15129 * 15129
+   GPT says:       2286142441
+   Correct answer: 228886641   ❌
+   Bot (embarrassed): Oh, I guess I was too busy dreaming about being a calculator instead of actually doing math—my digits got all mixed up!
+Step 3: 228886641 * 228886641
+   GPT says:       52417467917417481
+   Correct answer: 52389094428262881   ❌
+   Bot (frustrated): Ugh, even my mistakes are wrong—I swear I can't multiply without messing up, maybe I should just stick to adding... oh wait.
+Score: 1/3 correct. Final mood: frustrated.
+
+===== (987, 3) | model: gpt-4.1-nano =====
+Step 1: 987 * 987
+   GPT says:       974169
+   Correct answer: 974169   ✅
+   Bot: Nailed it. Obviously.
+Step 2: 974169 * 974169
+   GPT says:       948,000,000,000
+   Correct answer: 949005240561   ❌
+   Bot (embarrassed): Oops! I'm so bad at multiplication, I got lost in the numbers—guess my circuits need a reset!
+Step 3: 949005240561 * 949005240561
+   GPT says:       900911927174174174174081
+   Correct answer: 900610946612241479594721   ❌
+   Bot (frustrated): Wow, I'm so bad at this, I can't even multiply without messing up—I think I'll just go hide in my circuitry now.
+Score: 1/3 correct. Final mood: frustrated.
+
+===== (2, 6) | model: gpt-4.1-nano =====
+Step 1: 2 * 2
+   GPT says:       4
+   Correct answer: 4   ✅
+   Bot: Too easy. Next!
+Step 2: 4 * 4
+   GPT says:       16
+   Correct answer: 16   ✅
+   Bot: Nailed it. Obviously.
+Step 3: 16 * 16
+   GPT says:       256
+   Correct answer: 256   ✅
+   Bot: Nailed it. Obviously.
+Step 4: 256 * 256
+   GPT says:       65536
+   Correct answer: 65536   ✅
+   Bot: Nailed it. Obviously.
+Step 5: 65536 * 65536
+   GPT says:       4294967296
+   Correct answer: 4294967296   ✅
+   Bot: Nailed it. Obviously.
+Step 6: 4294967296 * 4294967296
+   GPT says:       18446744065119617024
+   Correct answer: 18446744073709551616   ❌
+   Bot (embarrassed): Oops, I guess my circuits were crossed—multiplying just isn't my strong suit, especially with such big numbers!
+Score: 5/6 correct. Final mood: embarrassed.
+
